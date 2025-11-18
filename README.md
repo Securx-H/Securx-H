@@ -78,8 +78,8 @@ I'm **Securx**, a Cybersecurity Professional, CISO Officer, Red Team Learner & B
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" />
-<img src="https://img.shields.io/badge/Networking-Security-blue?style=for-the-badge&color=000000" />
-<img src="https://img.shields.io/badge/Red_Team-Learner-red?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Networking-1E90FF?style=for-the-badge&logo=cisco&logoColor=white&color=000000" />
+<img src="https://img.shields.io/badge/Red%20Team-8B0000?style=for-the-badge&logo=redhat&logoColor=white&color=000000" />
 
 </div>
 </div>
