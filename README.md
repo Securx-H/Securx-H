@@ -22,7 +22,7 @@ I'm **Securx**, a Cybersecurity Professional, CISO Officer, Red Team Learner & B
 - Experience in **Red Teaming**, **Networking Security**, **Malware Analysis**, **Ethical Hacking**
 - Completed: **Cisco Networking Security**, **Cyber Security Specialist**, **Google Cybersecurity Certificate**, **CCEP**, **CEH Training**
 - Always learning & exploring new security techniques
-- Contact me at: **your-email-here**
+- Contact me at: amjadkhan01630@gmail.com
 
 </details>
 
